@@ -3,7 +3,7 @@
  <head>
  	<title> Email Boster 10.01 </title>
  	<script type="text/javascript" src="jquery-1.8.3.min.js" ></script>
- 	<link rel="stylesheet" href="styeme.css">
+ 	<link rel="stylesheet" href="styleme.css">
  </head>
  	<body>
  	<div class="mailer_hold_all">

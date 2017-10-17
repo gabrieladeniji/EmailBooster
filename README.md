@@ -1,1 +1,1 @@
-# EmailBooster
+Developed by Gabriel Adeniji
