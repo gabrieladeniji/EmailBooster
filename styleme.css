@@ -1,0 +1,77 @@
+html{
+	background-color: #f9f9f9;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.mailer_hold_all{
+	background-color: #c2c2c2;
+	opacity: 10px;
+	margin: 20px 20px 20px 20px;
+	border:2px solid #000000;
+	padding: 10px 10px 10px 10px;
+}
+.heading{
+	text-align: center;
+	font-size: 40px;
+	text-shadow: 320px;
+	margin-bottom: 30px;
+	padding-bottom: 5px;
+	font-family: comic;
+	border-bottom: 1px solid #808080;
+}
+.inner_holder{
+	background-color: #E5E4E2;
+	margin: 0px 30px 30px 30px;
+	border:1px solid #B6B6B4;
+}
+.top_border{
+	background-color: #87F717;
+	height: 10px;
+	margin-bottom: 20px;
+}
+label{
+	font-size: 15px;
+	font-family: Tahoma;
+	color: #4C4646;
+	padding-left: 5px;
+}
+.textareaVal2{
+	padding: 5px 5px 5px 5px;
+	flood-color: #000000;
+	border:1px solid #504A4B;
+	max-width: 700px;
+	width: 700px;
+	height: 300px;
+	margin-left:10px;
+	font-family: Tahoma;
+	color: #4C4646;
+	font-size: 13px;	
+}
+.checkVal{
+	margin-left:10px;	
+}
+table td{
+	vertical-align: top;
+}
+table tr{
+	width: 500px;
+}
+button, #sendEmails{
+	margin: 10px 0px 20px 10px;
+	padding: 10px 100px 10px 100px;
+	cursor: pointer;
+}
+.d_format{
+	margin: 5px 5px 5px 13px;
+	background-color: #BCC6CC;
+	padding: 3px 5px 4px 5px;
+	border-radius:3px;
+	color: #000000;
+	font-size: 13px;
+}
+/*table tr td, table tr th {padding:0.625em;}*/
+/*table tr:nth-of-type(2n) {background:none repeat scroll 0 0 #e0e0e0;}*/
