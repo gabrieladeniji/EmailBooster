@@ -7,7 +7,7 @@
  </head>
 <body>
 <div class="mailer_hold_all">
-<div class="heading"> Email Boster 1.03 </div>
+<div class="heading"> Email Boster 1.04 </div>
 <div class="inner_holder">
     <form method="POST">
         <div class="top_border"></div>
